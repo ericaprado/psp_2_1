@@ -1,0 +1,3 @@
+# TODO: Copiar los contenidos de https://github.com/github/gitignore/blob/master/Java.gitignore
+#Esta linea ignora el directorio target
+target/
