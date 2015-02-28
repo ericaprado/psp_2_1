@@ -4,10 +4,10 @@ GitHub:
 
 ericaprado
 
-git remote add origin https://github.com/ericaprado/psp_2.git
+git remote add origin https://github.com/ericaprado/psp_2_1.git
 
 usuario: ericaprado - erica.estefanny@gmail.com
 
 Verificar Resultados en:
 
-http://psp-2-erica-prado.herokuapp.com/
+http://psp-2-1-erica-prado.herokuapp.com/
