@@ -116,7 +116,12 @@ public class NumericalIntegration {
         return p;
     }
     
-    
+    /**
+     * Metodo para calcular x a partir de p y dof
+     * @param p - valor real de p
+     * @param dof - Degrees of Freedom en la fórmula
+     * @return 
+     */
     public double calculateXValue(double p, int dof){
     
         double x = initialValueX;
