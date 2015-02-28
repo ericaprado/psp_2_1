@@ -43,7 +43,7 @@ public class WebController extends HttpServlet{
                
         String result = "<HTML>";
                
-        result += "<H1>Test</H1></BR><TABLE>";
+        result += "<H1>Test</H1></BR><TABLE border=1>";
         
         NumericalIntegration numericalIntegration = new NumericalIntegration();
         result += "<TR><TD>p = 0.20</TD><TD>dof = 6</TD><TD>0 to x= " + numericalIntegration.calculateXValue(0.20, 6)+"</TD></TR>"; 
